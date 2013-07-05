@@ -1,4 +1,4 @@
-# Specification of APIs for Repository integration with the SCAPE Preservation Suite
+# APIs for repository integration with SCAPE Preservation Suite
 
 This project contains the documentation that describes the APIs specification for integration with the SCAPE Preservation Suite, that allows a loosely-coupled architecture for implementing a continuous preservation lifecycle.
 
